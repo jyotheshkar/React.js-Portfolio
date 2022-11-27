@@ -31,6 +31,27 @@ const About = () => {
 }
 
 
+{ /*  
+ breakfast :
+      brocolli -> 200gms 
+      4 eggs -> egg white 
+      180ml black coffee  { honey }
+
+ 10: 30 : Green tea 
+
+ 12 : 30 : lunch
+
+ Raggi ball big 250gms 
+veggies , chicken 
+
+6: 30 pm : green tea
+ 
+dinner: 
+350ml lemon juice
+150gms rice
+     
+*/}
+
 
 
 
